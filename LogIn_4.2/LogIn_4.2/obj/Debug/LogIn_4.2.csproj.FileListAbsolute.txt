@@ -1,0 +1,10 @@
+C:\Users\derek.ho\source\repos\LogIn_4.2\LogIn_4.2\bin\Debug\LogIn_4.2.exe.config
+C:\Users\derek.ho\source\repos\LogIn_4.2\LogIn_4.2\bin\Debug\LogIn_4.2.exe
+C:\Users\derek.ho\source\repos\LogIn_4.2\LogIn_4.2\bin\Debug\LogIn_4.2.pdb
+C:\Users\derek.ho\source\repos\LogIn_4.2\LogIn_4.2\obj\Debug\LogIn_4._2.Form1.resources
+C:\Users\derek.ho\source\repos\LogIn_4.2\LogIn_4.2\obj\Debug\LogIn_4._2.Properties.Resources.resources
+C:\Users\derek.ho\source\repos\LogIn_4.2\LogIn_4.2\obj\Debug\LogIn_4.2.csproj.GenerateResource.cache
+C:\Users\derek.ho\source\repos\LogIn_4.2\LogIn_4.2\obj\Debug\LogIn_4.2.csproj.CoreCompileInputs.cache
+C:\Users\derek.ho\source\repos\LogIn_4.2\LogIn_4.2\obj\Debug\LogIn_4.2.exe
+C:\Users\derek.ho\source\repos\LogIn_4.2\LogIn_4.2\obj\Debug\LogIn_4.2.pdb
+C:\Users\derek.ho\source\repos\LogIn_4.2\LogIn_4.2\obj\Debug\LogIn_4.2.csprojAssemblyReference.cache
